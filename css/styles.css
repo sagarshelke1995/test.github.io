@@ -62,7 +62,7 @@ li{
 
 .header{
     
-    
+    overflow:hidden;
     overflow-x:hidden;
 }
 
